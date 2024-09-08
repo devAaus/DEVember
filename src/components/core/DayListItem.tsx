@@ -27,5 +27,6 @@ const styles = StyleSheet.create({
    text: {
       color: '#9d0208',
       fontSize: 70,
+      fontFamily: 'Sevillana'
    }
 });
